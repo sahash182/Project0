@@ -1,0 +1,1 @@
+My Project 0 is very simple blog about the different  types cusines. This basically is a blog posts of the images of the the particular cusines and a little description, where people get to post their interesting pictures and can leave a comment on others post. And the description can be the name of the restaurants, taste, services and etc.
